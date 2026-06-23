@@ -19,6 +19,18 @@
 </div>
 
 ---
+<br>
+
+## 👤 Identitas
+
+| | |
+|---|---|
+| **Nama** | `Rafli Anugrah Ramadhan` |
+| **NIM** | `312410351` |
+| **Kelas** | `I241D` |
+| **Mata Kuliah** | `Pemrograman Web2` |
+
+<br>
 
 ## 📌 Tentang Proyek
 
