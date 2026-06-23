@@ -330,13 +330,16 @@ const apiUrl = 'http://localhost/lab11_ci/ci4/public';
 
 | Halaman | Deskripsi |
 |---------|-----------|
-| 🏠 Beranda SPA | Halaman sambutan dengan navigasi Vue Router |
-| 📋 Kelola Artikel | Tabel artikel dengan aksi Edit & Hapus |
-| ➕ Tambah / Edit | Modal form CRUD interaktif |
-| 🔐 Login Admin | Halaman autentikasi dengan validasi session |
-| 📊 Admin Panel | Daftar artikel dengan search, filter, dan AJAX pagination |
+| <img width="640" height="311" alt="Screenshot 2026-06-23 124442" src="https://github.com/user-attachments/assets/dd0d367d-dc00-4ad4-a417-f4eee4c676ac" /> | Halaman sambutan dengan navigasi Vue Router |
+| <img width="640" height="302" alt="Screenshot 2026-06-23 124640" src="https://github.com/user-attachments/assets/f85f7011-98ec-4938-bf1e-da892aa2ee41" /> | Tabel artikel dengan aksi Edit & Hapus |
+| <img width="640" height="291" alt="Screenshot 2026-06-23 124531" src="https://github.com/user-attachments/assets/09b281b8-69dd-4f1a-97e3-7a90c6f7722d" /> | Modal form CRUD interaktif |
+| <img width="640" height="323" alt="Screenshot 2026-06-23 124545" src="https://github.com/user-attachments/assets/93662902-6acc-4f86-81c3-c9ded6ea99a0" /> | Modal form CRUD interaktif |
+| <img width="637" height="295" alt="Screenshot 2026-06-23 124604" src="https://github.com/user-attachments/assets/abd01141-6236-4d97-b8d5-0ae561c11038" /> | Modal form CRUD interaktif |
 
-> 💡 *Tambahkan screenshot aplikasi kamu di sini untuk mempercantik README!*
+| Halaman | Deskripsi |
+|---------|-----------|
+| <img width="637" height="292" alt="Screenshot 2026-06-23 130139" src="https://github.com/user-attachments/assets/3404a9bc-d152-44a2-bc1e-09bf810bd76e" /> | Halaman About Di lab11_ci|
+| <img width="640" height="311" alt="Screenshot 2026-06-23 130126" src="https://github.com/user-attachments/assets/957eb061-416d-41ad-85ac-e624d57a2a6a" /> | Halaman Artikel Di lab11_ci |
 
 ---
 
